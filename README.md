@@ -1,5 +1,5 @@
 # AdvancedClock_in_System
-
+![](Pictures/Architecture.PNG)
 Technology:
 - AWS:
 - IoT Core
