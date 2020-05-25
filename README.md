@@ -12,9 +12,11 @@ Technology:
 - AWS glue
 - Athena
 - Amazon QuickSight 
+
 Software:
 - Python 
 - OpenCV
+
 Hardware: 
 - computer to train the model 
 - Raspberry pi x2 
