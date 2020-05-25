@@ -1,4 +1,6 @@
 # AdvancedClock_in_System
+![](Pictures/AdvancedClockInSystem.png)
+
 1. The first part describes the face data gathering and recognition (Thing 1).
 
 2. The second part looks at the AWS IoT MQTT and Amazon SNS microservice that provides a messaging service.
