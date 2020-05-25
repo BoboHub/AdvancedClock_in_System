@@ -1,5 +1,5 @@
 # AdvancedClock_in_System
-![](Pictures/AdvancedClockInSystem.png)
+![](Pictures/AdvancedClockInSystem.PNG)
 
 1. The first part describes the face data gathering and recognition (Thing 1).
 
