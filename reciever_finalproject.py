@@ -18,7 +18,7 @@ time.sleep(1)
 access_key = "provide credetials"
 access_secret = "provide credetials"
 region ="eu-west-1"
-queue_url = "https://sqs.eu-west-1.amazonaws.com/535587243099/MyRPi2_vision_Queue1"
+queue_url = "https://sqs.eu-west-1.amazonaws.com/xxxxxxxxxxxxxxx/MyRPi2_vision_Queue1"
 
 # max number of messages from the aws queue
 def pop_message(client, url):
