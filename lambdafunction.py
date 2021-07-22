@@ -10,7 +10,7 @@ import boto3
 access_key = "provide credentials"
 access_secret = "provide credentials"
 region ="eu-west-1"
-queue_url = "https://sqs.eu-west-1.amazonaws.com/535587243099/MyRPi2_vision_Queue1"
+queue_url = "https://sqs.eu-west-1.amazonaws.com/xxxxxxxxxxxx/MyRPi2_vision_Queue1"
 
 # declering a function with three arguments 
 def post_message(client, message_body, url):
