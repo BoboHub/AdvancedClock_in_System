@@ -29,8 +29,8 @@ import json
 myMQTTClient = AWSIoTMQTTClient("myClientID")
 # myMQTTClient.configureEndpoint("YOUR.ENDPOINT", 8883)
 # add certs 
-myMQTTClient.configureEndpoint("a339lllzm4qtvh-ats.iot.eu-west-1.amazonaws.com", 8883)
-myMQTTClient.configureCredentials("/home/pi/Desktop/cert/Amazon_Root_CA_1.pem", "/home/pi/Desktop/cert/10b950c4df-private.pem.key", "/home/pi/Desktop/cert/10b950c4df-certificate.pem.crt")
+myMQTTClient.configureEndpoint("xxxxxxxxx-ats.iot.eu-west-1.amazonaws.com", 8883)
+myMQTTClient.configureCredentials("/home/pi/Desktop/cert/Amazon_Root_CA_1.pem", "/home/pi/Desktop/cert/xxxxxxxxxx-private.pem.key", "/home/pi/Desktop/cert/xxxxxxxxxx-certificate.pem.crt")
 myMQTTClient.configureOfflinePublishQueueing(-1)  # Infinite offline Publish queueing
 myMQTTClient.configureDrainingFrequency(2)  # Draining: 2 Hz
 myMQTTClient.configureConnectDisconnectTimeout(10)  # 10 sec
